@@ -1,0 +1,33 @@
+# Welcome
+
+Nga'ay ho kita tangasa itini i FormosanBank, o tada - ay - ay a sapisanga' to sowal no mita a papicoker ato pipatihi to sowal no mita o Yin-cu-min i Taywan. O sowasowal hananay i, nani tada maamaanay a - no sowal no Timolay kitakit hananay a finacadan (Austronesian languages), nika i - ciira, ato tomireng i ka'ayaw no -. O no mita a tayal
+
+Itini kita haw, kita o mapolong manga'ay mikilim to so'elinay a sapifana' to sowal no mita. 
+
+---
+
+Welcome to FormosanBank, a large-scale data-driven project dedicated to the preservation and revitalization of the Indigenous Formosan languages of Taiwan. These languages, which form a significant part of the Austronesian language family, are endangered, with some facing the risk of extinction. Our mission is to create a comprehensive, machine-readable corpus of these languages to support linguistic research, language education, and revitalization efforts.
+
+Here, you'll find a description of the corpus collected and processed across the 16 official Formosan languages, which includes over 8 million tokens and over 730 hours of audio across the languages (detailed breakdown can be found [here](https://ai4commsci.gitbook.io/formosanbank/the-bank-architecture/corpora)). You'd further find a detailed description of how the data is structured and the various way to access it. You can also access the github with all the work and data related to FormosanBank [here](https://github.com/FormosanBank/FormosanBank) and the huggingFace organization with all the audio files from [here](https://huggingface.co/FormosanBank).
+
+The large-scale nature of FormosanBank would not have been possible without the collaborative efforts of numerous individuals and organizations.
+
+Principal Investigators
+
+- [Joshua Hartshorne](https://www.mghihp.edu/ihp-directory/joshua-hartshorne)
+- [Emily Prud'hommeaux](https://cs.bc.edu/~prudhome/)
+- [Li-May Sung](https://drive.google.com/file/d/1pkqbvFYHUydbiGRhPIgkBigkh2hpSCYi/view)
+
+Advisory Board
+
+- [Chuan-Jie Lin](https://cse.ntou.edu.tw/p/412-1063-7780.php?Lang=en)
+- [Damián Blasi](https://www.damianblasi.org/)
+- Xuan Ruan
+- Ūi-iū Kán
+- [Yuyang Liu](https://ced.utaipei.edu.tw/teacher/info?id=100103)
+
+Translator
+
+- [Mirusa Tan Usiliq](https://github.com/mirusausiliq)
+
+And [our many contributors](https://ai4commsci.gitbook.io/formosanbank/additional-resources/contributors).

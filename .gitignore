@@ -1,0 +1,36 @@
+# ===== Operating System =====
+# macOS Finder metadata
+.DS_Store                                                       
+
+# ===== Editor / IDE =====
+# VS Code settings and workspace files
+.vscode/                                                        
+# JetBrains IDEs
+.idea/                                                          
+
+# ===== Dependency Directories =====
+# Node.js packages
+node_modules/                                                   
+
+# ===== Log Files =====
+# npm, yarn, and custom logs
+*.log                                                           
+
+# ===== Environment Files =====
+# Local environment variables
+.env                                                            
+.env.*                                                           
+
+# ===== Build / Cache =====
+# Docusaurus, VuePress, or GitBook caches
+.cache/                                                         
+build/                                                          
+
+# ===== GitHub Actions =====
+# Ignore workflow artifacts
+.github/workflows/*.cache                                        
+
+# ===== Miscellaneous =====
+# Temporary and backup files
+*.tmp                                                           
+*.bak                                                           
